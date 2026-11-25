@@ -1,0 +1,2 @@
+# Preserve the imported offline guide exactly, including original whitespace.
+assets/guide.html -whitespace

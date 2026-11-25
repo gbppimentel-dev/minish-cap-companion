@@ -1,0 +1,14 @@
+{
+  "app": "minish-cap",
+  "oldVersionCode": 7,
+  "newVersionCode": 8,
+  "iconEntry": "res/drawable/guide_icon.png",
+  "changedEntries": [
+    "AndroidManifest.xml",
+    "res/drawable/guide_icon.png"
+  ],
+  "certificateSha256": "6a58366a5e5391e18d43af8f6951baec0eb14f54c7f9b3afa1103eb27edd4684",
+  "apkSha256": "0d2359142fbdf3d55005c2aa1292c6233c7e86f89c3cb38937f7ac54a2ed7fb4",
+  "codeAssetsLibrariesUnchanged": true,
+  "sourceRebuildDexMatchesRelease": true
+}
